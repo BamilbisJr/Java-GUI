@@ -1,0 +1,4 @@
+Author: Lucy Miller 
+Assignment: Programming Assignment #5: JavaFX GUI
+
+Description: This project was made in the Eclipse IDE and runs using the files UserInfoApp.java (containing main). The program will pop-up an application box, requiring the user to enter their name, choose a major, select a gender, and accept the check box that all information was correctly entered. Upon completion of the full information, the user may click the submit button to receive feedback about what they submitted. Without filling out all information or accepting the check box agreement, an error message will appear instead of feedback.
